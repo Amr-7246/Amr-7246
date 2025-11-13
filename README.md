@@ -8,7 +8,7 @@ A Full-Stack & AI Systems Engineer building production-ready digital products ac
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amr-7246&row=1&theme=onestar" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amr-7246&row=1&theme=aura" />
 </p>
 
 ---
