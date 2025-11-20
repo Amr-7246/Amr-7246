@@ -98,22 +98,6 @@ Parallel to this, I am completing my **Physical Therapy college degree**, provin
 
 ---
 
-# 🌐 **Connect With Me**
-<p align="left">
-<a href="https://linkedin.com/in/amr" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://facebook.com/amr" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-</a>
-
-<a href="https://instagram.com/amr" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-</p>
-
----
 
 # 📊 **GitHub Analytics**
 <p>
