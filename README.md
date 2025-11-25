@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm Amr or Dr.coder() . . . </h1>
+<h1 align="center">Hey there, I'm Amr or Dr.coder() 🧑‍💻✨</h1>
 <h3 align="center">
-A Full-Stack & AI Systems Engineer building production-ready digital products across Web, Mobile, and Intelligent microservices ecosystems 🚀
+A Full-Stack & AI Systems Engineer building production-grade digital products across Web, Mobile, and Intelligent Microservice ecosystems 🚀
 </h3>
 
 <p align="center">
@@ -14,93 +14,122 @@ A Full-Stack & AI Systems Engineer building production-ready digital products ac
 ---
 
 # 🚀 **About Me**
-A driven software engineer delivering **freelance production solutions** across diverse client markets — from SaaS modules and mobile applications to backend automations and AI-infused pipelines.
+A driven software engineer delivering **freelance production solutions** across diverse client markets — from SaaS modules and mobile apps to backend automation and AI-driven infrastructure.
 
 I’m deeply invested in:
-- 🧠 **AI model consumption** for real systems  
+- 🧠 **AI model consumption** for real-world deployments  
 - 🤖 Building **LangChain/LangGraph agents**  
-- ⚡ Deploying **FastAPI microservices** as AI orchestrators  
-- 🛠️ Continuous open-source exploration + contribution  
-- 🎯 Architecting scalable backend logic and mobile-friendly solutions  
-- 📚 And yes — pursuing all of this **solo**, fully self-taught, in parallel with my **Physical Therapy college journey**  
+- ⚡ Deploying **FastAPI inference microservices**  
+- 🛠️ Open-source inspection + contribution  
+- 🎯 Architecting scalable backend logic  
+- 📚 And yes — pursuing all of this **solo**, while completing my **Physical Therapy degree**  
 
-I thrive on high-ownership engineering, business-driven development, and operational clarity.
+I thrive on ownership, operational clarity, and business-aligned engineering.
 
 ---
 
 # 💼 **Freelance Experience**
-I've delivered multiple client projects end-to-end, including:
+I've delivered end-to-end client work including:
 
-### ⭐ Full-Stack SaaS Solutions  
-- Authentication workflows (Sanctum, JWT)  
-- Multi-tenant patterns  
-- Job queue systems  
-- Real-time dashboards & analytics  
+### ⭐ Full-Stack SaaS  
+- Auth (Sanctum, JWT)  
+- Multi-tenant systems  
+- Job queues  
+- Real-time dashboards  
 
 ### ⭐ Mobile Development (Flutter)  
-- Production UI scaling (ScreenUtil)  
-- Modular state architectures  
-- Pixel-tight theming for cross-platform clients  
+- Scalable UI (ScreenUtil)  
+- Modular architectures  
+- Pixel-accurate theming  
 
-### ⭐ AI Microservices & Automation  
-- FastAPI wrappers for LLM tools  
-- AI-powered workflow chains  
-- Retrieval pipelines for structured & unstructured data  
+### ⭐ AI Microservices  
+- FastAPI LLM wrappers  
+- Tool-chained AI workflows  
+- Retrieval pipelines  
 
 ### ⭐ Systems Optimization  
-- Docker-based deployments  
-- Caching, background orchestration, and monitoring  
-- API hardening, token security, and request throttling  
+- Docker deployments  
+- Caching & throttling  
+- API hardening  
 
 ---
 
-# 🧠 **My AI Engineering Focus**
-A significant part of my work is rooted in **AI model consumption** — not training models, but **turning them into fully functional business systems**.
+# 🧠 **AI Engineering Focus**
+A major slice of my engineering work revolves around **AI model consumption** — transforming models into real, monetizable systems.
 
 ### I build:
-- LangChain pipelines → “Logic engines” for reasoning, routing, memory, and decision systems  
-- LangGraph agents → deterministic state graphs for orchestrated AI behavior  
-- FastAPI Microservices → externalized inference endpoints with high throughput  
-- Python Tooling → advanced utility layers + algorithmic enhancement  
-- Model Integration → OpenAI, Anthropic, HuggingFace, and vector DBs  
+- **LangChain pipelines** → Logic engines  
+- **LangGraph agents** → Deterministic state machines  
+- **FastAPI services** → High-throughput inference  
+- **Python tooling** → Utilities, adapters, algorithmic layers  
+- **Integrations** → OpenAI, Anthropic, HuggingFace, vector DBs  
 
-The target: **practical, usable, revenue-producing AI features.**
+Goal: **Operational, reliable, revenue-producing AI features.**
 
 ---
 
-# 🧭 **My Learning Philosophy**
-I maintain a consistent schedule of:
-- 🔥 **Solo programming practice**  
-- 🧩 **Long-form code reading** (Python internals, OSS architectures)  
-- ⚙️ **Reverse-engineering libraries** to understand design patterns  
-- 📂 **OSS Contribution & exploration**  
+# 🧭 **Learning Philosophy**
+I maintain a rigorous schedule of:
+- 🔥 Solo programming & experimentation  
+- 🧩 Long-form code reading (Python internals, OSS internals)  
+- ⚙️ Reverse-engineering libraries  
+- 📂 OSS contribution cycles  
 
-Parallel to this, I am completing my **Physical Therapy college degree**, proving that persistence beats environment.
+All while balancing my **Physical Therapy college path**, proving that consistency wins.
 
 ---
 
 # 🧰 **Languages & Tools**
 ## Tech Stack
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,express,php,dart,flutter,fastapi,firebase,laravel,mongodb,mysql,nextjs,nodejs,npm,obsidian,postman,py,react,redis,tailwind,vscode" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,express,php,dart,flutter,fastapi,firebase,laravel,mongodb,mysql,nextjs,nodejs,npm,obsidian,postman,py,react,redis,tailwind,vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
 <br /><br />
 </p>
 
 ---
 
-
 # 📊 **GitHub Analytics**
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amr-7246&show_icons=true&layout=compact" />
+
+## 🔥 Profile Summary Cards (Reliable & Actively Maintained)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amr-7246&theme=github" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amr-7246&show_icons=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amr-7246&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amr-7246&theme=github" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amr-7246" />
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amr-7246&theme=dark&hide_border=false" />
 </p>
+
+---
+
+## ⚡ GitHub Metrics (Full Dashboard via Action)
+> (Add metrics.svg after activating the GitHub Action)
+
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics" />
+</p>
+
+---
+
+## 🛡 Minimalistic KPI Badges (Shields.io)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/amr-7246?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/amr-7246?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/amr-7246?style=for-the-badge" />
+</p>
+
+---
+
+## 🧩 Optional: Self-hosted GitHub Stats (Vercel)
+```md
+<img src="https://your-custom-vercel-url/api?username=amr-7246" />
+<img src="https://your-custom-vercel-url/api/top-langs/?username=amr-7246&layout=compact" />
