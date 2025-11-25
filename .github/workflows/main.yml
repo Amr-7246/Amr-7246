@@ -1,19 +1,112 @@
-name: Metrics
+name: GitHub Metrics
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    - cron: "0 0 * * *"   # Daily refresh
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["master", "main"]
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
-    environment: 
-      name: protection
-    permissions:
-      contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN_METRICS }}
+
+          # -----------------------------------------------------
+          # 🧩 CORE SETTINGS
+          # -----------------------------------------------------
+          user: amr-7246
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Cairo
+          config_twemoji: yes
+
+          # -----------------------------------------------------
+          # 🌐 GENERAL PLUGINS
+          # -----------------------------------------------------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_stars: yes
+          plugin_stars_limit: 300
+
+          plugin_followup: yes
+          plugin_followup_sections: user, repositories
+
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 12
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_threshold: 2%
+          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
+
+          plugin_lines: yes
+
+          plugin_projects: yes
+          plugin_projects_limit: 4
+
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 20
+
+          # -----------------------------------------------------
+          # 🧠 CONTRIBUTION ANALYTICS
+          # -----------------------------------------------------
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_activity_visibility: public
+          plugin_activity_filter: all
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # -----------------------------------------------------
+          # ⭐ ACHIEVEMENTS
+          # -----------------------------------------------------
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+
+          # -----------------------------------------------------
+          # 📊 PR / ISSUES / CODE REVIEW
+          # -----------------------------------------------------
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner, collaborator
+
+          plugin_code: yes
+
+          plugin_traffic: yes
+
+          plugin_people: yes
+          plugin_people_limit: 36
+          plugin_people_identicons: yes
+          plugin_people_size: 32
+          plugin_people_types: followers, following
+
+          plugin_licenses: yes
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
+
+          # -----------------------------------------------------
+          # 📚 EXTRA VISUALS
+          # -----------------------------------------------------
+          plugin_screenshot: no
+          plugin_steam: no
