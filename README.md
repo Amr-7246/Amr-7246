@@ -28,32 +28,6 @@ I thrive on ownership, operational clarity, and business-aligned engineering.
 
 ---
 
-# 💼 **Freelance Experience**
-I've delivered end-to-end client work including:
-
-### ⭐ Full-Stack SaaS  
-- Auth (Sanctum, JWT)  
-- Multi-tenant systems  
-- Job queues  
-- Real-time dashboards  
-
-### ⭐ Mobile Development (Flutter)  
-- Scalable UI (ScreenUtil)  
-- Modular architectures  
-- Pixel-accurate theming  
-
-### ⭐ AI Microservices  
-- FastAPI LLM wrappers  
-- Tool-chained AI workflows  
-- Retrieval pipelines  
-
-### ⭐ Systems Optimization  
-- Docker deployments  
-- Caching & throttling  
-- API hardening  
-
----
-
 # 🧠 **AI Engineering Focus**
 A major slice of my engineering work revolves around **AI model consumption** — transforming models into real, monetizable systems.
 
@@ -111,14 +85,14 @@ All while balancing my **Physical Therapy college path**, proving that consisten
 
 ---
 
-## ⚡ GitHub Metrics (Full Dashboard via Action)
-> (Add metrics.svg after activating the GitHub Action)
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/github-metrics.svg" width="300" alt="Metrics" />
+  <img src="/github-metrics.svg" width="300" alt="Metrics" />
+</p>
 
 ---
 
-## 🛡 Minimalistic KPI Badges (Shields.io)
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/amr-7246?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/amr-7246?style=for-the-badge" />
