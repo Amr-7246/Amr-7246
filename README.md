@@ -114,9 +114,7 @@ All while balancing my **Physical Therapy college path**, proving that consisten
 ## ⚡ GitHub Metrics (Full Dashboard via Action)
 > (Add metrics.svg after activating the GitHub Action)
 
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
-</p>
+![Metrics](/github-metrics.svg)
 
 ---
 
@@ -126,10 +124,3 @@ All while balancing my **Physical Therapy college path**, proving that consisten
   <img src="https://img.shields.io/github/stars/amr-7246?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/amr-7246?style=for-the-badge" />
 </p>
-
----
-
-## 🧩 Optional: Self-hosted GitHub Stats (Vercel)
-```md
-<img src="https://your-custom-vercel-url/api?username=amr-7246" />
-<img src="https://your-custom-vercel-url/api/top-langs/?username=amr-7246&layout=compact" />
