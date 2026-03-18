@@ -56,7 +56,7 @@ All while balancing my **Physical Therapy college path**, proving that consisten
 # 🧰 **Languages & Tools**
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,express,php,dart,flutter,fastapi,firebase,laravel,mongodb,mysql,nextjs,nodejs,npm,obsidian,postman,py,react,redis,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,express,py,php,go,dart,flutter,fastapi,firebase,laravel,mongodb,mysql,nextjs,nodejs,npm,obsidian,postman,react,redis,tailwind,vscode" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
 <br /><br />
