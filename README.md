@@ -8,11 +8,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amr-7246&label=Profile%20Views&color=yellow&style=flat" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amr-7246&row=1&theme=aura" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://vercel.app" alt="Trophies" />
+</p>
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 ---
 
 # **some Languages & Tools**
