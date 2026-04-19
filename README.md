@@ -1,7 +1,10 @@
-<h1 align="center">Hey there, I'm Amr or Dr.coder() 🧑‍💻✨</h1>
-<h3 align="center">
-A Full-Stack & AI Systems Engineer building production-grade digital products across Web, Mobile, and Intelligent Microservice ecosystems 🚀
-</h3>
+<h1 align="center">Hey there, I'm Amr or Dr.coder()...</h1>
+<h2 align="center">Full-Stack Developer & Low-Level Enthusiast</h2>
+<p align="center">
+  <b>Bridging Business Needs with Technical Curiosity.</b><br>
+  I enjoy using my freelance experience to build products that serve people, while constantly refining my craft through corporate standards. 
+  Whether I'm exploring high-level architecture or learning from <a href="https://github.com/Amr-7246/baremetal">bare-metal features</a>, I’m simply a developer dedicated to building reliable solutions and understanding how things work from the ground up.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amr-7246&label=Profile%20Views&color=yellow&style=flat" />
@@ -13,52 +16,18 @@ A Full-Stack & AI Systems Engineer building production-grade digital products ac
 
 ---
 
-# 🚀 **About Me**
-A driven software engineer delivering **freelance production solutions** across diverse client markets — from SaaS modules and mobile apps to backend automation and AI-driven infrastructure.
-
-I’m deeply invested in:
-- 🧠 **AI model consumption** for real-world deployments  
-- 🤖 Building **LangChain/LangGraph agents**  
-- ⚡ Deploying **FastAPI inference microservices**  
-- 🛠️ Open-source inspection + contribution  
-- 🎯 Architecting scalable backend logic  
-- 📚 And yes — pursuing all of this **solo**, while completing my **Physical Therapy degree**  
-
-I thrive on ownership, operational clarity, and business-aligned engineering.
-
----
-
-# 🧠 **AI Engineering Focus**
-A major slice of my engineering work revolves around **AI model consumption** — transforming models into real, monetizable systems.
-
-### I build:
-- **LangChain pipelines** → Logic engines  
-- **LangGraph agents** → Deterministic state machines  
-- **FastAPI services** → High-throughput inference  
-- **Python tooling** → Utilities, adapters, algorithmic layers  
-- **Integrations** → OpenAI, Anthropic, HuggingFace, vector DBs  
-
-Goal: **Operational, reliable, revenue-producing AI features.**
-
----
-
-# 🧭 **Learning Philosophy**
-I maintain a rigorous schedule of:
-- 🔥 Solo programming & experimentation  
-- 🧩 Long-form code reading (Python internals, OSS internals)  
-- ⚙️ Reverse-engineering libraries  
-- 📂 OSS contribution cycles  
-
-All while balancing my **Physical Therapy college path**, proving that consistency wins.
-
----
-
-# 🧰 **Languages & Tools**
-## Tech Stack
+# **some Languages & Tools**
+## Main Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,express,py,php,go,dart,flutter,fastapi,firebase,laravel,mongodb,mysql,nextjs,nodejs,npm,obsidian,postman,react,redis,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,go,laravel,mongodb,mysql,nextjs,npm,postman,react,redis,tailwind,vscode,git,github" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
+<br /><br />
+</p>
+
+## Another skills 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,py,dart,flutter,fastapi,flask,firebase,nodejs,obsidian,cpp,c,assemp,androidstudio,bash,linux,materialui,md,visualstudio" />
 <br /><br />
 </p>
 
