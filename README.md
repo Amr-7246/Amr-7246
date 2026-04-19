@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Amr or Dr.coder()... Full-Stack web Developer & Low-Level Enthusiast</h1>
 <p align="center">
-  <b>Bridging Business Needs with Technical Curiosity.</b><br>
+  <b>Bridging Business Needs with Technical Curiosity....</b>
   I enjoy using my freelance experience to build products that serve people, while constantly refining my craft through corporate standards. 
   Whether I'm exploring high-level architecture or learning from <a href="https://github.com/Amr-7246/baremetal">bare-metal features</a>, I simply love to understand how things work from the ground up.
 </p>
