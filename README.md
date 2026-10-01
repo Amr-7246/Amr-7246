@@ -1,26 +1,21 @@
-<h1 align="center">Amr Ehab | Full-Stack TypeScript Developer</h1>
+<h1 align="center">Amr Ehab | <span style="color: #00BFFF;">Full-Stack TypeScript Developer</span></h1>
 
 <p align="center">
   Full-Stack Developer focused on building both web and mobile version of the same server.
   Has project-based proven experience, either as a freelancer or engaged in a team work 
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/Amr-7246">GitHub</a> ·
-  <a href="https://github.com/Amr-7246/baremetal">Low-Level / Bare Metal</a>
-</p> -->
-
 ## Experience
 
 Built and deployed solo and within team full-stack systems including:
 
 **Solo**
-* Property marketing platforms (freelance project), <a href="https://github.com/Amr-7246">Aqar</a>
-* Academic Educational platform (my own future business), <a href="https://github.com/mishkaa">Mishkaa</a>
-* Interactive web experiences with GSAP (my current profile), <a href="https://github.com/Amr-7246">Dr.Coder()</a>
+* Property marketing platforms (freelance project), <a href="https://github.com/Amr-7246"><span style="color: #00BFFF;">Aqar</span></a>
+* Academic Educational platform (my own future business), <a href="https://github.com/mishkaa"><span style="color: #00BFFF;">Mishkaa</span></a>
+* Interactive web experiences with GSAP (my current profile), <a href="https://github.com/Amr-7246"><span style="color: #00BFFF;">Dr.Coder()</span></a>
 
 **Within team (tasks)**
-* Fitness platforms include Multi-vendor store system, <a href="https://github.com/creen">creen</a>
+* Fitness platforms include Multi-vendor store system, <a href="https://github.com/creen"><span style="color: #00BFFF;">creen</span></a>
 * Delivery and order-management system .. Just feature structure with executing delegating 
 * Admin and trader feature rich dashboard
 * From A to Z Payment integration on the top of a legacy code
@@ -30,11 +25,9 @@ across my humbling journey I also had separated experience at the deployment | s
 
 ## Engineering Interests
 
-I enjoy understanding systems beyond the framework level, from application architecture and distributed workflows to lower-level programming and bare-metal concepts.
-
-## Selected Projects
-
-Check my pinned repositories for the projects that best represent my current engineering capabilities.
+* I spend time at understanding <span style="color: #00BFFF;">**systems beyond the framework level**</span>, from application architecture and distributed workflows to lower-level programming and bare-metal concepts.
+* Good to know too that I always hover around the <span style="color: #00BFFF;">**open source projects**</span> to understand the structure, work flow, task natures and so on, but still did not contribute yet.
+* If I should highlight one skill, definitely it will be the <span style="color: #00BFFF;">**Self learning**</span> one, specifically with the AI between my hands 
 
 ## Core Stack
 
