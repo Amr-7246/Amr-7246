@@ -1,16 +1,14 @@
-<h1 align="center">Amr | Full-Stack TypeScript Developer</h1>
+<h1 align="center">Amr Ehab | Full-Stack TypeScript Developer</h1>
 
 <p align="center">
-  Full-Stack Developer focused on building production-oriented web and mobile applications.
-  Experienced with React, Next.js, Node.js, NestJS, TypeScript, PostgreSQL, and React Native.
+  Full-Stack Developer focused on building both web and mobile version of the same server.
+  Has project-based proven experience, either as a freelancer or engaged in a team work 
 </p>
 
 <!-- <p align="center">
   <a href="https://github.com/Amr-7246">GitHub</a> ·
   <a href="https://github.com/Amr-7246/baremetal">Low-Level / Bare Metal</a>
 </p> -->
-
----
 
 ## Experience
 
@@ -78,8 +76,6 @@ Check my pinned repositories for the projects that best represent my current eng
   <img src="https://komarev.com/ghpvc/?username=Amr-7246&label=Profile%20Views&style=flat" />
 </p>
 
----
-
 # **Some GitHub Analytics**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amr-7246&theme=github" />
@@ -90,13 +86,9 @@ Check my pinned repositories for the projects that best represent my current eng
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amr-7246&theme=github" />
 </p>
 
----
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amr-7246&theme=dark&hide_border=false" />
 </p>
-
----
 
 <!-- <h1 align="center">Hey there, I'm Amr or Dr.coder()... Full-Stack web Developer & Low-Level Enthusiast</h1>
 <p align="center">
