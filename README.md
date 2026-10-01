@@ -1,4 +1,60 @@
-<h1 align="center">Hey there, I'm Amr or Dr.coder()... Full-Stack web Developer & Low-Level Enthusiast</h1>
+<h1 align="center">Amr | Full-Stack TypeScript Developer</h1>
+
+<p align="center">
+  Full-Stack Developer focused on building production-oriented web and mobile applications.
+  Experienced with React, Next.js, Node.js, NestJS, TypeScript, PostgreSQL, and React Native.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amr-7246">GitHub</a> ·
+  <a href="https://github.com/Amr-7246/baremetal">Low-Level / Bare Metal</a>
+</p>
+
+---
+
+## Core Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, GSAP
+
+**Backend:** Node.js, NestJS, Express, PHP, Laravel
+
+**Mobile:** React Native
+
+**Database & Infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx
+
+**Tools:** Git, GitHub, REST APIs, Postman, Linux, CI/CD
+
+## Experience
+
+Built and deployed full-stack systems including:
+
+* Educational and learning platforms
+* Multi-store and e-commerce systems
+* Property marketing platforms
+* Medicine-related platforms
+* Delivery and order-management systems
+* Business dashboards and administrative systems
+* Payment integrations
+* Marketing and pixel-tracking systems
+* Interactive web experiences with GSAP
+
+I also have freelance experience delivering features and systems across frontend, backend, databases, integrations, and deployment.
+
+## Engineering Interests
+
+I enjoy understanding systems beyond the framework level, from application architecture and distributed workflows to lower-level programming and bare-metal concepts.
+
+## Selected Projects
+
+Check my pinned repositories for the projects that best represent my current engineering capabilities.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amr-7246&label=Profile%20Views&style=flat" />
+</p>
+
+<!-- <h1 align="center">Hey there, I'm Amr or Dr.coder()... Full-Stack web Developer & Low-Level Enthusiast</h1>
 <p align="center">
   <b>Bridging Business Needs with Technical Curiosity....</b>
   I enjoy using my freelance experience to build products that serve people, while constantly refining my craft through corporate standards. 
@@ -58,4 +114,4 @@
   <img src="https://img.shields.io/github/followers/amr-7246?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/amr-7246?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/amr-7246?style=for-the-badge" />
-</p>
+</p> -->
