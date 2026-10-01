@@ -5,10 +5,10 @@
   Experienced with React, Next.js, Node.js, NestJS, TypeScript, PostgreSQL, and React Native.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Amr-7246">GitHub</a> ·
   <a href="https://github.com/Amr-7246/baremetal">Low-Level / Bare Metal</a>
-</p>
+</p> -->
 
 ---
 
