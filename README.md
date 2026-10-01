@@ -39,9 +39,10 @@ I enjoy understanding systems beyond the framework level, from application archi
 Check my pinned repositories for the projects that best represent my current engineering capabilities.
 
 ## Core Stack
-**Backend:** Node.js | NestJS | Express | PHP | Laravel
+
+**Backend:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,go,laravel,mongodb,mysql,postman,redis" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,nextjs,cloudflare,bun,jest" />
 </p>
 
 **Frontend:** GSAP too
@@ -50,6 +51,9 @@ Check my pinned repositories for the projects that best represent my current eng
 </p>
 
 **Mobile:** React Native | Expo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
 
 **Database & Infrastructure:** PostgreSQL | MySQL | MongoDB | Redis | Docker | Nginx
 <p align="left">
@@ -61,6 +65,11 @@ Check my pinned repositories for the projects that best represent my current eng
   <img src="https://skillicons.dev/icons?i=npm,postman,vscode,git,github" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
+</p>
+
+**Secondary techs (shallow skills)**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,go,laravel,py,fastapi,flask" />
 </p>
 
 ---
