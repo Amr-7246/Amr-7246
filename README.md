@@ -47,7 +47,7 @@ Check my pinned repositories for the projects that best represent my current eng
 
 **Frontend:** GSAP too
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,zig" />
 </p>
 
 **Mobile:** React Native | Expo
@@ -57,7 +57,7 @@ Check my pinned repositories for the projects that best represent my current eng
 
 **Database & Infrastructure:** PostgreSQL | MySQL | MongoDB | Redis | Docker | Nginx
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jmongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma" />
 </p>
 
 **Tools:** Git, GitHub | REST APIs | Postman | Linux | CI/CD
@@ -69,7 +69,7 @@ Check my pinned repositories for the projects that best represent my current eng
 
 **Secondary techs (shallow skills)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,php,go,laravel,py,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,go,laravel,py,fastapi,flask,wordpress,powershell" />
 </p>
 
 ---
