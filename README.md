@@ -17,9 +17,9 @@
 Built and deployed solo and within team full-stack systems including:
 
 **Solo**
-* Academic Educational platform, <a href="https://github.com/mishkaa">Mishkaa</a>
-* Interactive web experiences with GSAP
-* Property marketing platforms
+* Property marketing platforms (freelance project), <a href="https://github.com/Amr-7246">Aqar</a>
+* Academic Educational platform (my own future business), <a href="https://github.com/mishkaa">Mishkaa</a>
+* Interactive web experiences with GSAP (my current profile), <a href="https://github.com/Amr-7246">Dr.Coder()</a>
 
 **Within team (tasks)**
 * Fitness platforms include Multi-vendor store system, <a href="https://github.com/creen">creen</a>
@@ -28,7 +28,7 @@ Built and deployed solo and within team full-stack systems including:
 * From A to Z Payment integration on the top of a legacy code
 * Marketing launching and pixel-tracking system for the traders
 
-I also have freelance experience delivering features and systems across frontend, backend, databases, integrations, and deployment.
+across my humbling journey I also had separated experience at the deployment | server handling | Github cycle | business needs | responsibility | db access | some soft skills .
 
 ## Engineering Interests
 
@@ -39,24 +39,24 @@ I enjoy understanding systems beyond the framework level, from application archi
 Check my pinned repositories for the projects that best represent my current engineering capabilities.
 
 ## Core Stack
-**Frontend:** GSAP+
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" />
-</p>
-
-**Backend:** Node.js, NestJS, Express, PHP, Laravel
+**Backend:** Node.js | NestJS | Express | PHP | Laravel
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,php,go,laravel,mongodb,mysql,postman,redis" />
 </p>
 
-**Mobile:** React Native
+**Frontend:** GSAP too
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" />
+</p>
 
-**Database & Infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx
+**Mobile:** React Native | Expo
+
+**Database & Infrastructure:** PostgreSQL | MySQL | MongoDB | Redis | Docker | Nginx
 <p align="left">
   <img src="https://skillicons.dev/icons?i=jmongodb,mysql,redis" />
 </p>
 
-**Tools:** Git, GitHub, REST APIs, Postman, Linux, CI/CD
+**Tools:** Git, GitHub | REST APIs | Postman | Linux | CI/CD
 <p align="left">
   <img src="https://skillicons.dev/icons?i=npm,postman,vscode,git,github" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
