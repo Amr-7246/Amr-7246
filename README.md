@@ -14,17 +14,19 @@
 
 ## Experience
 
-Built and deployed full-stack systems including:
+Built and deployed solo and within team full-stack systems including:
 
-* Educational and learning platforms
-* Multi-store and e-commerce systems
-* Property marketing platforms
-* Medicine-related platforms
-* Delivery and order-management systems
-* Business dashboards and administrative systems
-* Payment integrations
-* Marketing and pixel-tracking systems
+**Solo**
+* Academic Educational platform, <a href="https://github.com/mishkaa">Mishkaa</a>
 * Interactive web experiences with GSAP
+* Property marketing platforms
+
+**Within team (tasks)**
+* Fitness platforms include Multi-vendor store system, <a href="https://github.com/creen">creen</a>
+* Delivery and order-management system .. Just feature structure with executing delegating 
+* Admin and trader feature rich dashboard
+* From A to Z Payment integration on the top of a legacy code
+* Marketing launching and pixel-tracking system for the traders
 
 I also have freelance experience delivering features and systems across frontend, backend, databases, integrations, and deployment.
 
@@ -41,27 +43,32 @@ Check my pinned repositories for the projects that best represent my current eng
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" />
 </p>
+
 **Backend:** Node.js, NestJS, Express, PHP, Laravel
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,php,go,laravel,mongodb,mysql,postman,redis" />
 </p>
+
 **Mobile:** React Native
 
 **Database & Infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx
 <p align="left">
   <img src="https://skillicons.dev/icons?i=jmongodb,mysql,redis" />
 </p>
+
 **Tools:** Git, GitHub, REST APIs, Postman, Linux, CI/CD
 <p align="left">
   <img src="https://skillicons.dev/icons?i=npm,postman,vscode,git,github" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
 </p>
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amr-7246&label=Profile%20Views&style=flat" />
 </p>
+
 ---
 
 # **Some GitHub Analytics**
