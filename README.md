@@ -12,18 +12,6 @@
 
 ---
 
-## Core Stack
-
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, GSAP
-
-**Backend:** Node.js, NestJS, Express, PHP, Laravel
-
-**Mobile:** React Native
-
-**Database & Infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx
-
-**Tools:** Git, GitHub, REST APIs, Postman, Linux, CI/CD
-
 ## Experience
 
 Built and deployed full-stack systems including:
@@ -48,11 +36,51 @@ I enjoy understanding systems beyond the framework level, from application archi
 
 Check my pinned repositories for the projects that best represent my current engineering capabilities.
 
+## Core Stack
+**Frontend:** GSAP+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind" />
+</p>
+**Backend:** Node.js, NestJS, Express, PHP, Laravel
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,go,laravel,mongodb,mysql,postman,redis" />
+</p>
+**Mobile:** React Native
+
+**Database & Infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jmongodb,mysql,redis" />
+</p>
+**Tools:** Git, GitHub, REST APIs, Postman, Linux, CI/CD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,postman,vscode,git,github" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
+</p>
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amr-7246&label=Profile%20Views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Amr-7246&label=Profile%20Views&style=flat" />
 </p>
+---
+
+# **Some GitHub Analytics**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amr-7246&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amr-7246&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amr-7246&theme=github" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amr-7246&theme=dark&hide_border=false" />
+</p>
+
+---
 
 <!-- <h1 align="center">Hey there, I'm Amr or Dr.coder()... Full-Stack web Developer & Low-Level Enthusiast</h1>
 <p align="center">
@@ -69,12 +97,6 @@ Check my pinned repositories for the projects that best represent my current eng
 
 # **some Languages & Tools**
 **Main Tech Stack**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,go,laravel,mongodb,mysql,nextjs,npm,postman,react,redis,tailwind,vscode,git,github" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" />
-<br /><br />
-</p>
 
 **Another skills**
 <p align="left">
