@@ -10,8 +10,8 @@
 Built and deployed solo and within team full-stack systems including:
 
 **Solo**
-* Property marketing platforms (freelance project), <a href="https://github.com/Amr-7246"><strong style="color: #00BFFF;">Aqar</strong></a>
-* Academic Educational platform (my own future business), <a href="https://github.com/mishkaa"><strong style="color: #00BFFF;">Mishkaa</strong></a>
+* Property marketing platforms (freelance project), <a href="https://github.com/Amr-7246/aqar"><strong style="color: #00BFFF;">Aqar</strong></a>
+* Academic Educational platform (my own future business), <a href="https://github.com/Amr-7246/mishkaa"><strong style="color: #00BFFF;">Mishkaa</strong></a>
 * Interactive web experiences with GSAP (my current profile), <a href="https://github.com/Amr-7246"><strong style="color: #00BFFF;">Dr.Coder()</strong></a>
 
 **Within team (tasks)**
@@ -25,7 +25,7 @@ across my humbling journey I also had separated experience at the deployment | s
 
 ## Engineering Interests
 
-* I spend time at understanding <strong style="color: #00BFFF;">**systems beyond the framework level**</strong>, from application architecture and distributed workflows to lower-level programming and bare-metal concepts.
+* I spend time at understanding <strong style="color: #00BFFF;">**systems beyond the framework level**</strong>, from application architecture and distributed workflows to lower-level programming and <a href="https://github.com/Amr-7246/bare-metal"><strong style="color: #00BFFF;">bare-metal</strong></a> concepts.
 * Good to know too that I always hover around the <strong style="color: #00BFFF;">**open source projects**</strong> to understand the structure, work flow, task natures and so on, but still did not contribute yet.
 * If I should highlight one skill, definitely it will be the <strong style="color: #00BFFF;">**Self learning**</strong> one, specifically with the AI between my hands 
 
