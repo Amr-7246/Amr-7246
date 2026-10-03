@@ -12,7 +12,7 @@ Built and deployed solo and within team full-stack systems including:
 **Solo**
 * Property marketing platforms (freelance project), <a href="https://github.com/Amr-7246/aqar"><strong style="color: #00BFFF;">Aqar</strong></a>
 * Academic Educational platform (my own future business), <a href="https://github.com/Amr-7246/mishkaa"><strong style="color: #00BFFF;">Mishkaa</strong></a>
-* Interactive web experiences with GSAP (my current profile), <a href="https://github.com/Amr-7246"><strong style="color: #00BFFF;">Dr.Coder()</strong></a>
+* Interactive web experiences with GSAP (my current profile), <a href="https://github.com/Amr-7246/dr-coder"><strong style="color: #00BFFF;">Dr.Coder()</strong></a>
 
 **Within team (tasks)**
 * Fitness platforms include Multi-vendor store system, <a href="https://github.com/creen"><strong style="color: #00BFFF;">creen</strong></a>
