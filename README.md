@@ -25,7 +25,7 @@ across my humbling journey I also had separated experience at the deployment | s
 
 ## Engineering Interests
 
-* I spend time at understanding <strong style="color: #00BFFF;">**systems beyond the framework level**</strong>, from application architecture and distributed workflows to lower-level programming and <a href="https://github.com/Amr-7246/bare-metal"><strong style="color: #00BFFF;">bare-metal</strong></a> concepts.
+* I spend time at understanding <strong style="color: #00BFFF;">**systems beyond the framework level**</strong>, from application architecture and distributed workflows to lower-level programming and <a href="https://github.com/Amr-7246/baremetal"><strong style="color: #00BFFF;">bare-metal</strong></a> concepts.
 * Good to know too that I always hover around the <strong style="color: #00BFFF;">**open source projects**</strong> to understand the structure, work flow, task natures and so on, but still did not contribute yet.
 * If I should highlight one skill, definitely it will be the <strong style="color: #00BFFF;">**Self learning**</strong> one, specifically with the AI between my hands 
 
@@ -60,7 +60,7 @@ across my humbling journey I also had separated experience at the deployment | s
 
 **Secondary techs (shallow skills)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,go,php,laravel,py,fastapi,flask,wordpress,powershell,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,php,laravel,py,fastapi,flask,dart,flutter,wordpress,powershell,linux" />
 </p>
 
 ---
